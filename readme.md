@@ -1,4 +1,5 @@
 # Luke Schweickart
-This is my Github profile. You will not find anything interesting here. 🤷
 
-![West Virginia](IMG_7031_edit.min.jpg)
+I am a student and volunteer in Indiana. You may know me as the tech guy.
+
+![West Virginia Picture](IMG_7031_edit.min.jpg)
